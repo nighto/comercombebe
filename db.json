@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Maya Café",
+        "description": "Bistrô em ambiente aconchegante, com decoração suave e livros para café da manhã, brunch, almoço e happy hour.",
+        "coords": [-22.9410333, -43.1919023],
+        "opening_hours": "Tu-Su 09:00-22:30",
+        "state": "RJ",
+        "city": "Rio de Janeiro",
+        "district": "Zona Sul",
+        "neighborhood": "Laranjeiras",
+        "address": "Rua Professor Ortiz Monteiro, 15/B - Laranjeiras - Rio de Janeiro/RJ",
+        "website": "https://www.mayacafe.com.br/",
+        "phone": "+55 21 2205-4950",
+        "facebook": "https://www.facebook.com/MayaDeli/",
+        "instagram": "http://instagram.com/_mayacafe_",
+        "car_parking": false,
+        "bicycle_parking": false
+    },
+    {
+        "id": 2,
+        "name": "Fagulha",
+        "coords": [-22.9327907, -43.1795644],
+        "description": "Tradicional churrasco argentino, frutos do mar e pizza em clima ultra moderno e aconchegante de cores alegres.",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "state": "RJ",
+        "city": "Rio de Janeiro",
+        "district": "Zona Sul",
+        "neighborhood": "Laranjeiras",
+        "address": "Rua Conde de Baependi, 62 - box A - Laranjeiras, Rio de Janeiro/RJ",
+        "phone": "+55 21 2205-3488",
+        "car_parking": false,
+        "bicycle_parking": false
+    }
+]

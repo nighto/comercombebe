@@ -1,0 +1,24 @@
+{
+  "name": "comercombebe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "mkdir -p dist/leaflet && cp -R node_modules/leaflet/dist/* dist/leaflet",
+    "start": "python -m SimpleHTTPServer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nighto/comercombebe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nighto/comercombebe/issues"
+  },
+  "homepage": "https://github.com/nighto/comercombebe#readme",
+  "dependencies": {
+    "leaflet": "^1.4.0"
+  }
+}
